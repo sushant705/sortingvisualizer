@@ -1,4 +1,4 @@
-# Sorting Visualizer
+# https://asortingvisualizer.netlify.app/  (working link)
 
 A beautiful, interactive web application that visualizes various sorting algorithms in real-time. Watch as different sorting algorithms work their magic on randomly generated arrays with smooth animations and detailed statistics.
 
